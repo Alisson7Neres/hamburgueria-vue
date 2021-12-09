@@ -89,19 +89,6 @@
       "id": 1
     },
     {
-      "nome": "Júlia",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cheddar",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
       "nome": "Vanessa",
       "carne": "Veggie burger",
       "pao": "Integral",
@@ -111,6 +98,19 @@
       ],
       "status": "Solicitado",
       "id": 3
+    },
+    {
+      "nome": "Júlia",
+      "carne": "Veggie burger",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Pepino",
+        "Tomate",
+        "Cebola roxa",
+        "Cheddar"
+      ],
+      "status": "Solicitado",
+      "id": 4
     }
   ]
 }
