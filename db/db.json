@@ -79,16 +79,6 @@
   ],
   "burgers": [
     {
-      "nome": "Alisson",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "Em produção",
-      "id": 1
-    },
-    {
       "nome": "Vanessa",
       "carne": "Veggie burger",
       "pao": "Integral",
@@ -96,7 +86,7 @@
         "Tomate",
         "Pepino"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 3
     },
     {
@@ -109,8 +99,21 @@
         "Cebola roxa",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 4
+    },
+    {
+      "nome": "Alisson",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Cebola roxa",
+        "Cheddar",
+        "Tomate"
+      ],
+      "status": "Finalizado",
+      "id": 5
     }
   ]
 }
