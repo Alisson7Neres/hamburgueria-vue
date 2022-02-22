@@ -1,9 +1,8 @@
 # hamburgueria-vue
 
+Preview
 
-##Preview
-
-https://github.com/Alisson7Neres/hamburgueria-vue/blob/main/img/Peek%2021-02-2022%2011-26.gif
+<img src="https://github.com/Alisson7Neres/hamburgueria-vue/blob/main/img/Peek%2021-02-2022%2011-26.gif" />
 
 ### Project setup
 ```
