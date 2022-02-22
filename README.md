@@ -1,16 +1,22 @@
 # hamburgueria-vue
 
-## Project setup
+
+##Preview
+
+https://github.com/Alisson7Neres/hamburgueria-vue/blob/main/img/Peek%2021-02-2022%2011-26.gif
+
+### Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### Compiles and hot-reloads for development
 ```
 npm run serve
+npm run backend
 ```
 
-### Compiles and minifies for production
+#### Compiles and minifies for production
 ```
 npm run build
 ```
